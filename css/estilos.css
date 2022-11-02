@@ -111,7 +111,7 @@ main .sobre-nosotros{
 }
 
 .contenido-textos h3 span{
-    background: #4d0686;
+    background: #004428;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
@@ -192,7 +192,7 @@ main .sobre-nosotros{
 }
 
 .cards .card{
-    background: #4d0686;
+    background: #004428;
     display: flex;
     width: 46%;
     height: 200px;
@@ -282,7 +282,7 @@ footer{
 
 .content-foo h4{
     color: #fff;
-    border-bottom: 3px solid #af20d3;
+    border-bottom: 3px solid #26d320;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
