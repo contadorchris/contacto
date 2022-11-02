@@ -234,6 +234,11 @@ main .sobre-nosotros{
     text-align: center;
 }
 
+.servicio-ind1{
+    width: 100%;
+    text-align: center;
+}
+
 .servicio-ind img{
     width: 90%;
 }
@@ -347,10 +352,6 @@ footer{
     .servicio-ind img{
         width: 90%;
     }
-     .servicio-ind1{
-    width: 100%;
-    text-align: center;
-    }
 }
 
 @media screen and (max-width:500px){
@@ -423,7 +424,6 @@ footer{
         border-bottom: 1px solid #f2f2f2;
         padding-bottom: 20px;
     }
-    
 
     .titulo-final{
         font-size: 20px;
