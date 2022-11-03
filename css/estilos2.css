@@ -233,8 +233,8 @@ main .sobre-nosotros{
 .cards .card1{
     background: #004428;
     display: flex;
-    width: 50%;
-    height: 350px;
+    width: 35%;
+    height: 400px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
@@ -274,10 +274,7 @@ main .sobre-nosotros{
     display: inline-block;
     width: 170px;
     text-align: left;
-
-
-
-    
+      
 }
 
 /*  Our team */
